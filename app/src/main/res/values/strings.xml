@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ClubMahindra</string>
+    <string name="hintMemberId">Member ID/Email</string>
+    <string name="hintPasswordId">Password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="beach">Beach</string>
+    <string name="resortInBeach">Resort(s) in Beach</string>
+    <string name="state">State</string>
+    <string name="offers">2 offers</string>
+    <string name="reviews">0 Reviews</string>
+    <string name="city">city</string>
+    <string name="aboutResort">About Resort</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="checkavailablity">Check Availablity</string>
+    <string name="cantLogin">Can\'t Login</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">G+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

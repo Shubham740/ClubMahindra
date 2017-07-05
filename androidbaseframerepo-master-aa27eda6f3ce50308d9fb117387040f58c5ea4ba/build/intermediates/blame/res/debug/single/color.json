@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/user/AndroidStudioProjects/ClubMahindra/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/user/.android/build-cache/f3a18514b2f7cd2b654a290caff3ce5552fbaa3c/output/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ClubMahindra/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/home/user/.android/build-cache/f3a18514b2f7cd2b654a290caff3ce5552fbaa3c/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ClubMahindra/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/user/.android/build-cache/f3a18514b2f7cd2b654a290caff3ce5552fbaa3c/output/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ClubMahindra/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/home/user/.android/build-cache/f3a18514b2f7cd2b654a290caff3ce5552fbaa3c/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ClubMahindra/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/color/abc_search_url_text_holo.xml",
+        "source": "/home/user/.android/build-cache/bdf739f7bbf1c6df4bbd5a0078e27a46aaacec66/output/res/color/abc_search_url_text_holo.xml"
+    }
+]

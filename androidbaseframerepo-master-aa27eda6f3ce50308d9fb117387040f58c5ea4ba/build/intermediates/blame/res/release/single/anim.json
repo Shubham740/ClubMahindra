@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/user/AndroidStudioProjects/ClubMahindra/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/user/.android/build-cache/bdf739f7bbf1c6df4bbd5a0078e27a46aaacec66/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ClubMahindra/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/user/.android/build-cache/bdf739f7bbf1c6df4bbd5a0078e27a46aaacec66/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ClubMahindra/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/user/.android/build-cache/bdf739f7bbf1c6df4bbd5a0078e27a46aaacec66/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ClubMahindra/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/user/.android/build-cache/bdf739f7bbf1c6df4bbd5a0078e27a46aaacec66/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ClubMahindra/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/user/.android/build-cache/bdf739f7bbf1c6df4bbd5a0078e27a46aaacec66/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ClubMahindra/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/user/.android/build-cache/bdf739f7bbf1c6df4bbd5a0078e27a46aaacec66/output/res/anim/abc_slide_out_top.xml"
+    }
+]

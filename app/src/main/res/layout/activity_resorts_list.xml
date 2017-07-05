@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context="com.example.user.clubmahindra.activity.ResortsListActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="1"
+        android:background="@color/blue"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <ImageView
+            android:id="@+id/backPressImageView"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.5"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:src="@drawable/back_arrow" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="8.5"
+            android:background="@color/blue"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            android:text="@string/beach"
+            android:textColor="@color/white"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/resortInBeach"
+            android:gravity="center_vertical"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:textColor="@color/lightBlack"
+            android:id="@+id/textViewResortsInBeach"
+            android:layout_alignBaseline="@+id/totalResortsTextViewId"
+            android:layout_alignBottom="@+id/totalResortsTextViewId"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/textViewResortsInBeach"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textSize="20sp"
+android:paddingRight="20dp"
+            android:id="@+id/totalResortsTextViewId"
+            android:gravity="right"/>
+    </RelativeLayout>
+    <android.support.v7.widget.RecyclerView
+
+        android:id="@+id/recycleView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:scrollbars="vertical"
+        android:layout_weight="8">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+</LinearLayout>
